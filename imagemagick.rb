@@ -3,7 +3,7 @@ require 'formula'
 class Imagemagick < Formula
   homepage 'http://www.imagemagick.org'
 
-  url 'http://www.imagemagick.org/download/releases/ImageMagick-6.7.7-10.tar.bz2'
+  url 'http://www.imagemagick.org/download/releases/ImageMagick-6.7.7-10.tar.xz'
   sha1 'acb4f2647a19895abb2af5bd1379b0cca151c58a'
 
   head 'https://www.imagemagick.org/subversion/ImageMagick/trunk',
